@@ -1,36 +1,37 @@
 <div align="center">
 
-<!-- ═══════════════════ HEADER BANNER ═══════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Eddie%20Chan&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=AI%20Engineering%20Manager%20%E2%80%A2%20AWS%20Community%20Builder%20%E2%80%A2%20%E2%98%95%20Caffeine%20Coder&descAlignY=58&descSize=17" alt="Header"/>
 
-<!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=F78166&center=true&vCenter=true&width=650&lines=Building+AI+Systems+at+Scale+%F0%9F%A4%96;AWS+Solutions+Architect+Associate+%E2%98%81%EF%B8%8F;AWS+Community+Builder+%F0%9F%8F%97%EF%B8%8F;HKUST+MBA+%7C+Hong+Kong+%F0%9F%87%AD%F0%9F%87%B0;Coffee+%2B+Code+%3D+My+Day+%E2%98%95)](https://github.com/unrealandychan)
 
-<!-- ═══════════════════ SOCIAL BADGES ═══════════════════ -->
 <p>
-  <a href="https://github.com/unrealandychan"><img src="https://img.shields.io/github/followers/unrealandychan?label=Follow&style=for-the-badge&logo=github&color=f78166&logoColor=white&labelColor=0d1117" alt="GitHub Followers"/></a>
+  <a href="https://github.com/unrealandychan">
+    <img src="https://img.shields.io/github/followers/unrealandychan?label=Follow&style=for-the-badge&logo=github&color=f78166&logoColor=white&labelColor=0d1117" alt="Followers"/>
+  </a>
   &nbsp;
   <img src="https://img.shields.io/badge/AWS%20Community%20Builder-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Community Builder"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Hong%20Kong-%F0%9F%87%AD%F0%9F%87%B0-red?style=for-the-badge&labelColor=0d1117" alt="Hong Kong"/>
+  <img src="https://img.shields.io/badge/Hong%20Kong-red?style=for-the-badge&labelColor=0d1117" alt="Hong Kong"/>
   &nbsp;
-  <a href="mailto:algowl@connect.hku.hk"><img src="https://img.shields.io/badge/Email-algowl%40connect.hku.hk-79c0ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/></a>
+  <a href="mailto:algowl@connect.hku.hk">
+    <img src="https://img.shields.io/badge/Email-algowl%40connect.hku.hk-79c0ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/>
+  </a>
 </p>
 
 </div>
 
 ---
 
-<img align="right" width="280" src="https://github-readme-stats.vercel.app/api?username=unrealandychan&show_icons=true&theme=github_dark&hide_border=true&title_color=f78166&icon_color=79c0ff&text_color=e6edf3&bg_color=0d1117&ring_color=f78166" alt="Eddie's GitHub Stats" />
+<img align="right" width="290" src="https://github-readme-stats.vercel.app/api?username=unrealandychan&show_icons=true&theme=github_dark&hide_border=true&title_color=f78166&icon_color=79c0ff&text_color=e6edf3&bg_color=0d1117&ring_color=f78166" alt="GitHub Stats"/>
 
 ## 👨‍💻 About Me
 
 I'm **Eddie Chan** — an AI Engineering Manager based in 🇭🇰 **Hong Kong**, living on coffee and commits.
 
 - 🧠 Leading an **AI Engineering Team** at **FWD Group** — shipping production ML/AI systems across pan-Asian insurance operations
-- 🏗️ Designing cloud-native infrastructure on **AWS** with **Terraform**, **Kubernetes**, and **Helm**
-- 📊 Building data pipelines on **Snowflake**, **Databricks**, and **BigQuery**
-- 🤖 Driving LLM adoption and AI-assisted development across the organisation
+- 🏗️ Designing cloud-native infra on **AWS** with **Terraform**, **Kubernetes** & **Helm**
+- 📊 Building data pipelines across **Snowflake**, **Databricks** & **BigQuery**
+- 🤖 Driving LLM adoption and AI-assisted development org-wide
 - 🎓 **HKUST MBA** (Class of 2024)
 - ☁️ **AWS Solutions Architect – Associate** · **AWS Community Builder**
 - 📖 Curating AI-generated learning curricula to democratise tech education
@@ -42,16 +43,11 @@ I'm **Eddie Chan** — an AI Engineering Manager based in 🇭🇰 **Hong Kong**
 
 ## 💼 Work Experience
 
-<table>
-<tr>
-<td width="90" align="center"><img src="https://img.shields.io/badge/Now-3fb950?style=flat-square&labelColor=0d1117" alt="Current"/></td>
-<td>
-<strong>AI Engineering Team Manager</strong> — <em>FWD Group · Hong Kong</em><br/>
-<sub>2022 – Present</sub><br/><br/>
+| | |
+|:---:|:---|
+| ![Now](https://img.shields.io/badge/Now-3fb950?style=flat-square&labelColor=0d1117) | **AI Engineering Team Manager** — *FWD Group · Hong Kong* · `2022 – Present` |
+
 Leading a cross-functional AI Engineering team delivering production-grade ML/AI systems across FWD's pan-Asian insurance operations. Responsible for technical roadmap, cloud architecture, engineering standards, and people growth.
-</td>
-</tr>
-</table>
 
 **Core responsibilities:**
 - 🚀 Architecting scalable AI/ML pipelines and APIs serving millions of customers
@@ -60,23 +56,31 @@ Leading a cross-functional AI Engineering team delivering production-grade ML/AI
 - 📊 Enterprise data engineering across **Snowflake**, **Databricks**, **BigQuery**, **Amazon Redshift**
 - 🤖 Embedding LLMs and AI-assisted workflows across engineering teams
 - 🔄 Building automation pipelines with **n8n** for business process optimisation
-- 👥 Mentoring engineers, conducting code reviews, hiring, and growing the team
+- 👥 Mentoring engineers, code reviews, hiring and growing the team
 
 ---
 
 ## 🎓 Education & Credentials
 
-<div align="center">
-
-| 🏫 Education | ☁️ Certifications |
-|---|---|
-| **Master of Business Administration (MBA)** | **AWS Solutions Architect – Associate** |
-| Hong Kong University of Science & Technology (HKUST) | Amazon Web Services |
-| Class of **2024** | Validated cloud architecture expertise |
-| | **AWS Community Builder** |
-| | Cloud Infrastructure track |
-
-</div>
+<table>
+<tr>
+<th align="left">🏫 Education</th>
+<th align="left">☁️ Certifications</th>
+</tr>
+<tr>
+<td valign="top">
+  <strong>Master of Business Administration (MBA)</strong><br/>
+  Hong Kong University of Science &amp; Technology (HKUST)<br/>
+  <em>Class of 2024</em>
+</td>
+<td valign="top">
+  🏅 <strong>AWS Solutions Architect – Associate</strong><br/>
+  <sub>Amazon Web Services · Cloud Architecture</sub><br/><br/>
+  🏗️ <strong>AWS Community Builder</strong><br/>
+  <sub>Amazon Web Services · Cloud Infrastructure track</sub>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -107,9 +111,6 @@ Leading a cross-functional AI Engineering team delivering production-grade ML/AI
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Amazon Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white)
-
-**Automation**
-
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 </div>
@@ -133,7 +134,7 @@ Leading a cross-functional AI Engineering team delivering production-grade ML/AI
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=unrealandychan&theme=github-dark-blue&hide_border=true&ring=f78166&fire=f78166&currStreakLabel=f78166&sideNums=79c0ff&sideLabels=8b949e&dates=8b949e&background=0D1117" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=unrealandychan&theme=github-dark-blue&hide_border=true&ring=f78166&fire=f78166&currStreakLabel=f78166&sideNums=79c0ff&sideLabels=8b949e&dates=8b949e&background=0D1117" alt="GitHub Streak"/>
 
 <br/>
 
@@ -164,11 +165,17 @@ Leading a cross-functional AI Engineering team delivering production-grade ML/AI
 
 <div align="center">
 
-<a href="https://github.com/unrealandychan"><img src="https://img.shields.io/badge/GitHub-unrealandychan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/unrealandychan">
+  <img src="https://img.shields.io/badge/GitHub-unrealandychan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 &nbsp;
-<a href="mailto:algowl@connect.hku.hk"><img src="https://img.shields.io/badge/Email-algowl%40connect.hku.hk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:algowl@connect.hku.hk">
+  <img src="https://img.shields.io/badge/Email-algowl%40connect.hku.hk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 &nbsp;
-<a href="https://unrealandychan.github.io"><img src="https://img.shields.io/badge/Portfolio-unrealandychan.github.io-f78166?style=for-the-badge&logo=github-pages&logoColor=white" alt="Portfolio"/></a>
+<a href="https://unrealandychan.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-unrealandychan.github.io-f78166?style=for-the-badge&logo=github-pages&logoColor=white" alt="Portfolio"/>
+</a>
 
 <br/><br/>
 
