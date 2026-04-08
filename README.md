@@ -49,19 +49,22 @@ I'm **Eddie Chan** — an AI Engineering Manager based in 🇭🇰 **Hong Kong**
 - 🚀 Defining and executing the AI engineering roadmap end-to-end
 - 🏗️ Infrastructure-as-Code with **Terraform + AWS** (EC2, Lambda, ECS, S3, RDS)
 - ☸️ Container orchestration via **Kubernetes** & **Helm** chart management
+- 📊 Enterprise data engineering across **Snowflake**, **Databricks**, **BigQuery**, **Redshift**
 - 👥 Mentoring engineers, conducting code reviews, hiring and growing the team
 - 🔄 Building automation pipelines with **n8n** for business process optimisation
 
 **As Senior AI Engineer** `2020 – 2025`
-- 🤖 Designed and deployed production ML models and LLM-powered services
-- 📊 Built enterprise data pipelines across **Snowflake**, **Databricks**, **BigQuery**, **Redshift**
-- ☁️ Led cloud migration and IaC adoption across teams
-- ⎈ Introduced Kubernetes-based deployment standards for ML workloads
+- 🤖 Designed and deployed production ML models using **TensorFlow** and **PyTorch**
+- 🐍 Built end-to-end ML pipelines in **Python** — from data preprocessing to model serving
+- ☁️ Leveraged **AWS** services (SageMaker, Lambda, EC2, S3) for scalable model deployment
+- 🔬 Applied deep learning, NLP, and computer vision techniques to real-world problems
+- 📦 Containerised and shipped ML services with **Docker** and **Kubernetes**
+- ⚡ Optimised model inference performance for production latency requirements
 
 **As Data Scientist** `2019 – 2020`
 - 📈 Built predictive models and data-driven product features at a startup
 - 🔍 End-to-end ownership: data wrangling, modelling, evaluation, and deployment
-- 🐍 Core stack: Python, SQL, scikit-learn
+- 🐍 Core stack: **Python**, SQL, scikit-learn
 
 ---
 
@@ -111,7 +114,13 @@ I'm **Eddie Chan** — an AI Engineering Manager based in 🇭🇰 **Hong Kong**
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-**Data & AI**
+**ML & AI**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Data Engineering**
 
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
