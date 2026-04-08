@@ -22,13 +22,11 @@
 
 ---
 
-<img align="right" width="290" src="https://github-readme-stats.vercel.app/api?username=unrealandychan&show_icons=true&theme=github_dark&hide_border=true&title_color=f78166&icon_color=79c0ff&text_color=e6edf3&bg_color=0d1117&ring_color=f78166" alt="GitHub Stats"/>
-
 ## 👨‍💻 About Me
 
 I'm **Eddie Chan** — an AI Engineering Manager based in 🇭🇰 **Hong Kong**, living on coffee and commits.
 
-- 🧠 Leading an **AI Engineering Team** at **FWD Group** — shipping production ML/AI systems across pan-Asian insurance operations
+- 🧠 Managing an **AI Engineering Team** — shipping production ML/AI systems at scale
 - 🏗️ Designing cloud-native infra on **AWS** with **Terraform**, **Kubernetes** & **Helm**
 - 📊 Building data pipelines across **Snowflake**, **Databricks** & **BigQuery**
 - 🤖 Driving LLM adoption and AI-assisted development org-wide
@@ -37,26 +35,33 @@ I'm **Eddie Chan** — an AI Engineering Manager based in 🇭🇰 **Hong Kong**
 - 📖 Curating AI-generated learning curricula to democratise tech education
 - ⏱️ GitHub member since **2016**
 
-<br clear="right"/>
-
 ---
 
 ## 💼 Work Experience
 
-| | |
-|:---:|:---|
-| ![Now](https://img.shields.io/badge/Now-3fb950?style=flat-square&labelColor=0d1117) | **AI Engineering Team Manager** — *FWD Group · Hong Kong* · `2022 – Present` |
+| Period | Role |
+|:---|:---|
+| ![2025–Now](https://img.shields.io/badge/2025–Now-3fb950?style=flat-square&labelColor=0d1117) | **AI Engineering Team Manager** |
+| ![2020–2025](https://img.shields.io/badge/2020–2025-79c0ff?style=flat-square&labelColor=0d1117) | **Senior AI Engineer** |
+| ![2019–2020](https://img.shields.io/badge/2019–2020-f78166?style=flat-square&labelColor=0d1117) | **Data Scientist** — *Early-stage Startup* |
 
-Leading a cross-functional AI Engineering team delivering production-grade ML/AI systems across FWD's pan-Asian insurance operations. Responsible for technical roadmap, cloud architecture, engineering standards, and people growth.
-
-**Core responsibilities:**
-- 🚀 Architecting scalable AI/ML pipelines and APIs serving millions of customers
+**As AI Engineering Team Manager** `2025 – Present`
+- 🚀 Defining and executing the AI engineering roadmap end-to-end
 - 🏗️ Infrastructure-as-Code with **Terraform + AWS** (EC2, Lambda, ECS, S3, RDS)
 - ☸️ Container orchestration via **Kubernetes** & **Helm** chart management
-- 📊 Enterprise data engineering across **Snowflake**, **Databricks**, **BigQuery**, **Amazon Redshift**
-- 🤖 Embedding LLMs and AI-assisted workflows across engineering teams
+- 👥 Mentoring engineers, conducting code reviews, hiring and growing the team
 - 🔄 Building automation pipelines with **n8n** for business process optimisation
-- 👥 Mentoring engineers, code reviews, hiring and growing the team
+
+**As Senior AI Engineer** `2020 – 2025`
+- 🤖 Designed and deployed production ML models and LLM-powered services
+- 📊 Built enterprise data pipelines across **Snowflake**, **Databricks**, **BigQuery**, **Redshift**
+- ☁️ Led cloud migration and IaC adoption across teams
+- ⎈ Introduced Kubernetes-based deployment standards for ML workloads
+
+**As Data Scientist** `2019 – 2020`
+- 📈 Built predictive models and data-driven product features at a startup
+- 🔍 End-to-end ownership: data wrangling, modelling, evaluation, and deployment
+- 🐍 Core stack: Python, SQL, scikit-learn
 
 ---
 
@@ -216,6 +221,6 @@ Leading a cross-functional AI Engineering team delivering production-grade ML/AI
 
 ---
 
-<sub>☕ Coffee & Code made my day · Built with passion by <strong>Caffeine Coder</strong> · Hong Kong 🇭🇰</sub>
+<sub>☕ Coffee &amp; Code made my day · Built with passion by <strong>Caffeine Coder</strong> · Hong Kong 🇭🇰</sub>
 
 </div>
