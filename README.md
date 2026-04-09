@@ -42,8 +42,8 @@ I'm **Eddie Chan** — an AI Engineering Manager based in 🇭🇰 **Hong Kong**
 | Period | Role |
 |:---|:---|
 | ![2025–Now](https://img.shields.io/badge/2025–Now-3fb950?style=flat-square&labelColor=0d1117) | **AI Engineering Team Manager** |
-| ![2020–2025](https://img.shields.io/badge/2020–2025-79c0ff?style=flat-square&labelColor=0d1117) | **Senior AI Engineer** |
-| ![2019–2020](https://img.shields.io/badge/2019–2020-f78166?style=flat-square&labelColor=0d1117) | **Data Scientist** — *Early-stage Startup* |
+| ![2021–2025](https://img.shields.io/badge/2020–2025-79c0ff?style=flat-square&labelColor=0d1117) | **Senior AI Engineer** |
+| ![2019–2021](https://img.shields.io/badge/2019–2020-f78166?style=flat-square&labelColor=0d1117) | **Data Scientist** — *Early-stage Startup* |
 
 **As AI Engineering Team Manager** `2025 – Present`
 - 🚀 Defining and executing the AI engineering roadmap end-to-end
@@ -53,7 +53,7 @@ I'm **Eddie Chan** — an AI Engineering Manager based in 🇭🇰 **Hong Kong**
 - 👥 Mentoring engineers, conducting code reviews, hiring and growing the team
 - 🔄 Building automation pipelines with **n8n** for business process optimisation
 
-**As Senior AI Engineer** `2020 – 2025`
+**As Senior AI Engineer** `2021 – 2025`
 - 🤖 Designed and deployed production ML models using **TensorFlow** and **PyTorch**
 - 🐍 Built end-to-end ML pipelines in **Python** — from data preprocessing to model serving
 - ☁️ Leveraged **AWS** services (SageMaker, Lambda, EC2, S3) for scalable model deployment
@@ -61,7 +61,7 @@ I'm **Eddie Chan** — an AI Engineering Manager based in 🇭🇰 **Hong Kong**
 - 📦 Containerised and shipped ML services with **Docker** and **Kubernetes**
 - ⚡ Optimised model inference performance for production latency requirements
 
-**As Data Scientist** `2019 – 2020`
+**As Data Scientist** `2019 – 2021`
 - 📈 Built predictive models and data-driven product features at a startup
 - 🔍 End-to-end ownership: data wrangling, modelling, evaluation, and deployment
 - 🐍 Core stack: **Python**, SQL, scikit-learn
