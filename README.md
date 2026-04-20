@@ -137,7 +137,27 @@ I'm **Eddie Chan** — an AI Engineering Manager based in 🇭🇰 **Hong Kong**
 <table>
 <tr>
 <td valign="top">
-  <h3>⚡ <a href="https://github.com/unrealandychan/serverless-llm-router">serverless-llm-router</a> &nbsp;<img src="https://img.shields.io/badge/NEW-3fb950?style=flat-square&labelColor=0d1117" alt="New"/></h3>
+  <h3>🪽 <a href="https://github.com/unrealandychan/Hermes-Agent-Cloud">Hermes-Agent-Cloud</a> &nbsp;<img src="https://img.shields.io/badge/NEW-3fb950?style=flat-square&labelColor=0d1117" alt="New"/></h3>
+  <p>One command. Three clouds. Four LLM providers. Deploy the <a href="https://github.com/NousResearch/hermes">Hermes Agent</a> to <strong>AWS, Azure, or GCP</strong> with a wizard-first CLI — zero plaintext secrets, zero manual infra wiring.</p>
+  <p><strong>Supports:</strong> OpenRouter · OpenAI · Anthropic · Google Gemini &nbsp;|&nbsp; <strong>Clouds:</strong> AWS EC2 · Azure VM · GCP Compute Engine</p>
+  <p>
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash"/>
+    &nbsp;
+    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
+    &nbsp;
+    <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
+    &nbsp;
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+    &nbsp;
+    <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP"/>
+    &nbsp;
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+  </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+  <h3>⚡ <a href="https://github.com/unrealandychan/serverless-llm-router">serverless-llm-router</a></h3>
   <p>A serverless, OpenAI-compatible LLM gateway on AWS. Drop it in front of <strong>any LLM provider</strong> and get streaming responses, multi-provider weighted routing, per-tenant rate limiting, and async request logging — all without managing servers.</p>
   <p><strong>Supports:</strong> OpenAI · AWS Bedrock (Nova, Claude) · Anthropic · Gemini · Vertex AI · any OpenAI-compatible endpoint</p>
   <p>
