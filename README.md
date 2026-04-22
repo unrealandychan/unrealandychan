@@ -13,6 +13,10 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Hong%20Kong-🇭🇰-red?style=for-the-badge&labelColor=0d1117" alt="Hong Kong"/>
   &nbsp;
+  <a href="https://medium.com/@unrealandychan">
+    <img src="https://img.shields.io/badge/Medium-@unrealandychan-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=0d1117" alt="Medium"/>
+  </a>
+  &nbsp;
   <a href="mailto:algowl@connect.hku.hk">
     <img src="https://img.shields.io/badge/Email-algowl%40connect.hku.hk-79c0ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/>
   </a>
@@ -132,6 +136,15 @@ I'm **Eddie Chan** — an AI Engineering Manager based in 🇭🇰 **Hong Kong**
 
 ---
 
+---
+
+## 🔨 Currently Building
+
+| Project | Description | Stack |
+|:---|:---|:---|
+| [**serverless-llm-router**](https://github.com/unrealandychan/serverless-llm-router) | Cost-optimised LLM API gateway routing across providers | TypeScript · AWS CDK · Lambda |
+| [**Hermes Agent Cloud**](https://github.com/unrealandychan/hermes-agent-cloud) | Personal AI assistant infrastructure with multi-agent orchestration | Python · AWS · LangChain |
+
 ## 🚀 Featured Projects
 
 <table>
@@ -228,6 +241,11 @@ I'm **Eddie Chan** — an AI Engineering Manager based in 🇭🇰 **Hong Kong**
 ---
 
 ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unrealandychan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f78166&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+</p>
+
 
 <div align="center">
 
