@@ -140,14 +140,44 @@ I'm **Eddie Chan** — an AI Engineering Manager based in 🇭🇰 **Hong Kong**
 
 ## 🔨 Currently Building
 
+> 🔥 **Hot projects I'm actively hacking on right now**
+
 | Project | Description | Stack |
 |:---|:---|:---|
-| [**serverless-llm-router**](https://github.com/unrealandychan/serverless-llm-router) | Cost-optimised LLM API gateway routing across providers | TypeScript · AWS CDK · Lambda |
-| [**Hermes Agent Cloud**](https://github.com/unrealandychan/hermes-agent-cloud) | Personal AI assistant infrastructure with multi-agent orchestration | Python · AWS · LangChain |
+| 🔥 [**terraform-viz**](https://github.com/unrealandychan/terraform-viz) | Interactive Terraform plan visualiser — graph explorer, cost estimator & AI insights | TypeScript · Next.js · Vitest |
+| 🔥 [**Hermes-Agent-Cloud**](https://github.com/unrealandychan/Hermes-Agent-Cloud) | One command. Three clouds. Deploy your AI assistant to AWS/Azure/GCP | Bash · Terraform · Multi-cloud |
+| 🔥 [**AgentFoundry**](https://github.com/unrealandychan/AgentFoundry) | Agent scaffolding framework for rapidly building & deploying AI agents | Python · LLM · Agent Orchestration |
 
 ## 🚀 Featured Projects
 
 <table>
+<tr>
+<td valign="top">
+  <h3>🔥 <a href="https://github.com/unrealandychan/terraform-viz">terraform-viz</a> &nbsp;<img src="https://img.shields.io/badge/HOT-f78166?style=flat-square&labelColor=0d1117" alt="Hot"/></h3>
+  <p>Interactive Terraform plan visualiser with a live 2D/3D graph, per-resource cost estimates, AI-powered insights, and a multi-service monorepo architecture.</p>
+  <p><strong>Features:</strong> Upload any <code>terraform plan -out</code> JSON · Cost breakdown by provider · LLM deterministic rules engine · Comparison diff view</p>
+  <p>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+    &nbsp;
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+    &nbsp;
+    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
+    &nbsp;
+    <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest"/>
+  </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+  <h3>🔥 <a href="https://github.com/unrealandychan/AgentFoundry">AgentFoundry</a> &nbsp;<img src="https://img.shields.io/badge/HOT-f78166?style=flat-square&labelColor=0d1117" alt="Hot"/></h3>
+  <p>Agent scaffolding framework for rapidly building, composing, and deploying AI agents. Designed for engineers who want production-grade agent infrastructure without the boilerplate.</p>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+    &nbsp;
+    <img src="https://img.shields.io/badge/LLM%20Agents-f78166?style=flat-square&logoColor=white" alt="Agents"/>
+  </p>
+</td>
+</tr>
 <tr>
 <td valign="top">
   <h3>🪽 <a href="https://github.com/unrealandychan/Hermes-Agent-Cloud">Hermes-Agent-Cloud</a> &nbsp;<img src="https://img.shields.io/badge/NEW-3fb950?style=flat-square&labelColor=0d1117" alt="New"/></h3>
