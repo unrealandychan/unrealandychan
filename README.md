@@ -34,7 +34,7 @@ I'm **Eddie Chan** — an AI Engineering Manager based in 🇭🇰 **Hong Kong**
 - 🏗️ Designing cloud-native infra on **AWS** with **Terraform**, **Kubernetes** & **Helm**
 - 📊 Building data pipelines across **Snowflake**, **Databricks** & **BigQuery**
 - 🤖 Driving LLM adoption and AI-assisted development org-wide
-- 🎓 **HKUST MBA** (Class of 2024)
+- 🎓 **HKUST MBA** (Class of 2022)
 - ☁️ **AWS Solutions Architect – Associate** · **AWS Community Builder**
 - 📖 Curating AI-generated learning curricula to democratise tech education
 - ⏱️ GitHub member since **2016**
@@ -83,7 +83,7 @@ I'm **Eddie Chan** — an AI Engineering Manager based in 🇭🇰 **Hong Kong**
 <td valign="top">
   <strong>Master of Business Administration (MBA)</strong><br/>
   Hong Kong University of Science &amp; Technology (HKUST)<br/>
-  <em>Class of 2024</em>
+  <em>Class of 2022</em>
 </td>
 <td valign="top">
   🏅 <strong>AWS Solutions Architect – Associate</strong><br/>
