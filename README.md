@@ -108,6 +108,7 @@ I'm **Eddie Chan** — an AI Engineering Manager based in 🇭🇰 **Hong Kong**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Shell](https://img.shields.io/badge/Shell-89E051?style=for-the-badge&logo=gnu-bash&logoColor=black)
 ![HCL](https://img.shields.io/badge/HCL%2FTerraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 **Cloud & DevOps**
 
@@ -147,6 +148,7 @@ I'm **Eddie Chan** — an AI Engineering Manager based in 🇭🇰 **Hong Kong**
 | 🔥 [**terraform-viz**](https://github.com/unrealandychan/terraform-viz) | Interactive Terraform plan visualiser — graph explorer, cost estimator & AI insights | TypeScript · Next.js · Vitest |
 | 🔥 [**Hermes-Agent-Cloud**](https://github.com/unrealandychan/Hermes-Agent-Cloud) | One command. Three clouds. Deploy your AI assistant to AWS/Azure/GCP | Bash · Terraform · Multi-cloud |
 | 🔥 [**AgentFoundry**](https://github.com/unrealandychan/AgentFoundry) | Agent scaffolding framework for rapidly building & deploying AI agents | Python · LLM · Agent Orchestration |
+| 🔥 [**rekipedia**](https://github.com/unrealandychan/rekipedia-releases) | Agentic repo-to-wiki CLI — scan any codebase into a searchable knowledge base with AI | Go · Python · SQLite · FastAPI |
 
 ## 🚀 Featured Projects
 
@@ -175,6 +177,24 @@ I'm **Eddie Chan** — an AI Engineering Manager based in 🇭🇰 **Hong Kong**
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
     &nbsp;
     <img src="https://img.shields.io/badge/LLM%20Agents-f78166?style=flat-square&logoColor=white" alt="Agents"/>
+  </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+  <h3>🧠 <a href="https://github.com/unrealandychan/rekipedia-releases">rekipedia</a> &nbsp;<img src="https://img.shields.io/badge/HOT-f78166?style=flat-square&labelColor=0d1117" alt="Hot"/></h3>
+  <p>Agentic repo-to-wiki CLI — scan any codebase and generate a searchable, AI-enriched knowledge base. Understand any project in minutes with <code>reki scan</code> + <code>reki ask</code>.</p>
+  <p><strong>Features:</strong> Python + Go dual implementation · SQLite storage · FastAPI wiki server · D3 graph visualiser · RAG-powered Q&A · Tech lead notes memory</p>
+  <p>
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
+    &nbsp;
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+    &nbsp;
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+    &nbsp;
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
+    &nbsp;
+    <img src="https://img.shields.io/badge/LLM%20Agents-f78166?style=flat-square&logoColor=white" alt="LLM"/>
   </p>
 </td>
 </tr>
