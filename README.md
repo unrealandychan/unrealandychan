@@ -292,10 +292,13 @@ I'm **Eddie Chan** — an AI Engineering Manager based in 🇭🇰 **Hong Kong**
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unrealandychan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f78166&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-</p>
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=unrealandychan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f78166&icon_color=79c0ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unrealandychan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f78166&text_color=c9d1d9&langs_count=8&exclude_repo=yolov5,transformers,litellm,tensorflow,material-ui,bert,keras-bert,Chinese-BERT-wwm,monpa,100-exercises-to-learn-rust,rustlings,RustTraining,ddia,phoenix,ckiptagger,awesome-design-systems" alt="Top Languages" height="165"/>
+
+</div>
 
 <div align="center">
 
