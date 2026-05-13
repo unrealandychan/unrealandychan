@@ -137,8 +137,6 @@ I'm **Eddie Chan** — an AI Engineering Manager based in 🇭🇰 **Hong Kong**
 
 ---
 
----
-
 ## 🔨 Currently Building
 
 > 🔥 **Hot projects I'm actively hacking on right now**
@@ -150,143 +148,6 @@ I'm **Eddie Chan** — an AI Engineering Manager based in 🇭🇰 **Hong Kong**
 | 🔥 [**AgentFoundry**](https://github.com/unrealandychan/AgentFoundry) | Agent scaffolding framework for rapidly building & deploying AI agents | Python · LLM · Agent Orchestration |
 | 🔥 [**rekipedia**](https://github.com/unrealandychan/rekipedia-releases) | Agentic repo-to-wiki CLI — scan any codebase into a searchable knowledge base with AI | Go · Python · SQLite · FastAPI |
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td valign="top">
-  <h3>🔥 <a href="https://github.com/unrealandychan/terraform-viz">terraform-viz</a> &nbsp;<img src="https://img.shields.io/badge/HOT-f78166?style=flat-square&labelColor=0d1117" alt="Hot"/></h3>
-  <p>Interactive Terraform plan visualiser with a live 2D/3D graph, per-resource cost estimates, AI-powered insights, and a multi-service monorepo architecture.</p>
-  <p><strong>Features:</strong> Upload any <code>terraform plan -out</code> JSON · Cost breakdown by provider · LLM deterministic rules engine · Comparison diff view</p>
-  <p>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-    &nbsp;
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
-    &nbsp;
-    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
-    &nbsp;
-    <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest"/>
-  </p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-  <h3>🔥 <a href="https://github.com/unrealandychan/AgentFoundry">AgentFoundry</a> &nbsp;<img src="https://img.shields.io/badge/HOT-f78166?style=flat-square&labelColor=0d1117" alt="Hot"/></h3>
-  <p>Agent scaffolding framework for rapidly building, composing, and deploying AI agents. Designed for engineers who want production-grade agent infrastructure without the boilerplate.</p>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-    &nbsp;
-    <img src="https://img.shields.io/badge/LLM%20Agents-f78166?style=flat-square&logoColor=white" alt="Agents"/>
-  </p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-  <h3>🧠 <a href="https://github.com/unrealandychan/rekipedia-releases">rekipedia</a> &nbsp;<img src="https://img.shields.io/badge/HOT-f78166?style=flat-square&labelColor=0d1117" alt="Hot"/></h3>
-  <p>Agentic repo-to-wiki CLI — scan any codebase and generate a searchable, AI-enriched knowledge base. Understand any project in minutes with <code>reki scan</code> + <code>reki ask</code>.</p>
-  <p><strong>Features:</strong> Python + Go dual implementation · SQLite storage · FastAPI wiki server · D3 graph visualiser · RAG-powered Q&A · Tech lead notes memory</p>
-  <p>
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
-    &nbsp;
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-    &nbsp;
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-    &nbsp;
-    <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
-    &nbsp;
-    <img src="https://img.shields.io/badge/LLM%20Agents-f78166?style=flat-square&logoColor=white" alt="LLM"/>
-  </p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-  <h3>🪽 <a href="https://github.com/unrealandychan/Hermes-Agent-Cloud">Hermes-Agent-Cloud</a> &nbsp;<img src="https://img.shields.io/badge/NEW-3fb950?style=flat-square&labelColor=0d1117" alt="New"/></h3>
-  <p>One command. Three clouds. Four LLM providers. Deploy the <a href="https://github.com/NousResearch/hermes">Hermes Agent</a> to <strong>AWS, Azure, or GCP</strong> with a wizard-first CLI — zero plaintext secrets, zero manual infra wiring.</p>
-  <p><strong>Supports:</strong> OpenRouter · OpenAI · Anthropic · Google Gemini &nbsp;|&nbsp; <strong>Clouds:</strong> AWS EC2 · Azure VM · GCP Compute Engine</p>
-  <p>
-    <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash"/>
-    &nbsp;
-    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
-    &nbsp;
-    <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
-    &nbsp;
-    <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-    &nbsp;
-    <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP"/>
-    &nbsp;
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
-  </p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-  <h3>⚡ <a href="https://github.com/unrealandychan/serverless-llm-router">serverless-llm-router</a></h3>
-  <p>A serverless, OpenAI-compatible LLM gateway on AWS. Drop it in front of <strong>any LLM provider</strong> and get streaming responses, multi-provider weighted routing, per-tenant rate limiting, and async request logging — all without managing servers.</p>
-  <p><strong>Supports:</strong> OpenAI · AWS Bedrock (Nova, Claude) · Anthropic · Gemini · Vertex AI · any OpenAI-compatible endpoint</p>
-  <p>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-    &nbsp;
-    <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="Lambda"/>
-    &nbsp;
-    <img src="https://img.shields.io/badge/API%20Gateway-FF4F8B?style=flat-square&logo=amazon-aws&logoColor=white" alt="API Gateway"/>
-    &nbsp;
-    <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white" alt="DynamoDB"/>
-    &nbsp;
-    <img src="https://img.shields.io/badge/CDK-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="CDK"/>
-  </p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-  <h3>📘 <a href="https://github.com/unrealandychan/learn-python-with-ai">learn-python-with-ai</a></h3>
-  <p>Self-paced Python learning course with all content generated by AI. A unique approach to democratising programming education.</p>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  </p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-  <h3>⎈ <a href="https://github.com/unrealandychan/Helm-Visualizer">Helm-Visualizer</a></h3>
-  <p>Interactive, browser-based Helm chart renderer and Kubernetes resource graph — no Helm CLI or cluster access required.</p>
-  <p>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-    &nbsp;
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-    &nbsp;
-    <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm"/>
-  </p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-  <h3>📊 <a href="https://github.com/unrealandychan/learn-big-data-with-ai">learn-big-data-with-ai</a></h3>
-  <p>A 26-week self-paced course covering Snowflake, Databricks, BigQuery, and Amazon Redshift — from basics to production pipelines.</p>
-  <p>
-    <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake"/>
-    &nbsp;
-    <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks"/>
-    &nbsp;
-    <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="BigQuery"/>
-    &nbsp;
-    <img src="https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square&logo=amazon-redshift&logoColor=white" alt="Redshift"/>
-  </p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-  <h3>🔄 <a href="https://github.com/unrealandychan/n8n-terraform-ec2-fastsetup">n8n-terraform-ec2-fastsetup</a></h3>
-  <p>Terraform-powered fast setup for n8n automation on AWS EC2. Spin up workflow automation infrastructure in minutes.</p>
-  <p>
-    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
-    &nbsp;
-    <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
-    &nbsp;
-    <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
-  </p>
-</td>
-</tr>
-</table>
 
 ---
 
@@ -309,16 +170,6 @@ I'm **Eddie Chan** — an AI Engineering Manager based in 🇭🇰 **Hong Kong**
 
 ---
 
-## 📝 Writing & Learning Resources
-
-> Passionate about democratising tech knowledge through AI-generated curricula.
-
-| 📘 Resource | Description |
-|---|---|
-| [**learn-python-with-ai**](https://github.com/unrealandychan/learn-python-with-ai) | AI-generated, self-paced Python course from fundamentals to advanced patterns |
-| [**learn-big-data-with-ai**](https://github.com/unrealandychan/learn-big-data-with-ai) | 26-week curriculum covering Snowflake, Databricks, BigQuery & Redshift |
-| [**n8n Terraform EC2 Fast Setup**](https://github.com/unrealandychan/n8n-terraform-ec2-fastsetup) | Spin up n8n workflow automation on AWS EC2 with Terraform in minutes |
-| [**Helm Visualizer**](https://github.com/unrealandychan/Helm-Visualizer) | Browser-based Helm chart renderer — visualise K8s resources without a cluster |
 
 ---
 
