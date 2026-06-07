@@ -45,9 +45,9 @@ I'm **Eddie Chan** — an AI Engineering Manager based in 🇭🇰 **Hong Kong**
 
 | Period | Role |
 |:---|:---|
-| ![2025–Now](https://img.shields.io/badge/2025–Now-3fb950?style=flat-square&labelColor=0d1117) | **AI Engineering Team Manager** |
-| ![2021–2025](https://img.shields.io/badge/2020–2025-79c0ff?style=flat-square&labelColor=0d1117) | **Senior AI Engineer** |
-| ![2019–2021](https://img.shields.io/badge/2019–2020-f78166?style=flat-square&labelColor=0d1117) | **Data Scientist** — *Early-stage Startup* |
+| ![2025-Now](https://img.shields.io/badge/2025--Now-3fb950?style=flat-square&labelColor=0d1117) | **AI Engineering Team Manager** |
+| ![2021-2025](https://img.shields.io/badge/2021--2025-79c0ff?style=flat-square&labelColor=0d1117) | **Senior AI Engineer** |
+| ![2019-2021](https://img.shields.io/badge/2019--2021-f78166?style=flat-square&labelColor=0d1117) | **Data Scientist** — *Early-stage Startup* |
 
 **As AI Engineering Team Manager** `2025 – Present`
 - 🚀 Defining and executing the AI engineering roadmap end-to-end
@@ -143,6 +143,7 @@ I'm **Eddie Chan** — an AI Engineering Manager based in 🇭🇰 **Hong Kong**
 
 | Project | Description | Stack |
 |:---|:---|:---|
+| 🔥 [**Helm-Visualizer**](https://github.com/unrealandychan/Helm-Visualizer) | Interactive browser-based Helm chart renderer and Kubernetes resource graph explorer | TypeScript · Next.js · Vitest |
 | 🔥 [**terraform-viz**](https://github.com/unrealandychan/terraform-viz) | Interactive Terraform plan visualiser — graph explorer, cost estimator & AI insights | TypeScript · Next.js · Vitest |
 | 🔥 [**Hermes-Agent-Cloud**](https://github.com/unrealandychan/Hermes-Agent-Cloud) | One command. Three clouds. Deploy your AI assistant to AWS/Azure/GCP | Bash · Terraform · Multi-cloud |
 | 🔥 [**AgentFoundry**](https://github.com/unrealandychan/AgentFoundry) | Agent scaffolding framework for rapidly building & deploying AI agents | Python · LLM · Agent Orchestration |
@@ -155,10 +156,10 @@ I'm **Eddie Chan** — an AI Engineering Manager based in 🇭🇰 **Hong Kong**
 
 <div align="center">
 
-<!-- github-profile-summary-cards is more reliable than vercel-hosted readme-stats -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=unrealandychan&theme=github_dark" alt="Repos Per Language" height="165"/>
+<!-- Profile summary cards generated locally via GitHub Action (100% uptime and zero rate limits) -->
+<img src="profile-summary-card-output/github_dark/repos-per-language.svg" alt="Repos Per Language" height="165"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=unrealandychan&theme=github_dark" alt="Most Used Language" height="165"/>
+<img src="profile-summary-card-output/github_dark/most-commit-language.svg" alt="Most Used Language" height="165"/>
 
 </div>
 
