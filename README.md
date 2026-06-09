@@ -147,7 +147,7 @@ I'm **Eddie Chan** — an AI Engineering Manager based in 🇭🇰 **Hong Kong**
 | 🔥 [**terraform-viz**](https://github.com/unrealandychan/terraform-viz) | Interactive Terraform plan visualiser — graph explorer, cost estimator & AI insights | TypeScript · Next.js · Vitest |
 | 🔥 [**Hermes-Agent-Cloud**](https://github.com/unrealandychan/Hermes-Agent-Cloud) | One command. Three clouds. Deploy your AI assistant to AWS/Azure/GCP | Bash · Terraform · Multi-cloud |
 | 🔥 [**AgentFoundry**](https://github.com/unrealandychan/AgentFoundry) | Agent scaffolding framework for rapidly building & deploying AI agents | Python · LLM · Agent Orchestration |
-| 🔥 [**rekipedia**](https://github.com/unrealandychan/rekipedia-releases) | Agentic repo-to-wiki CLI — scan any codebase into a searchable knowledge base with AI | Go · Python · SQLite · FastAPI |
+| 🔥 [**rekipedia**](https://github.com/unrealandychan/rekipedia) | Agentic repo-to-wiki CLI — scan any codebase into a searchable knowledge base with AI | Python · SQLite · FastAPI · MCP |
 
 
 ---
