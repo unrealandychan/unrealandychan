@@ -157,9 +157,9 @@ I'm **Eddie Chan** — an AI Engineering Manager based in 🇭🇰 **Hong Kong**
 <div align="center">
 
 <!-- Profile summary cards generated locally via GitHub Action (100% uptime and zero rate limits) -->
-<img src="profile-summary-card-output/github_dark/repos-per-language.svg" alt="Repos Per Language" height="165"/>
+<img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos Per Language" height="165"/>
 &nbsp;
-<img src="profile-summary-card-output/github_dark/most-commit-language.svg" alt="Most Used Language" height="165"/>
+<img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Used Language" height="165"/>
 
 </div>
 
