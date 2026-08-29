@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Eddie%20Chan&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineering%20Manager%20%E2%80%A2%20AWS%20Community%20Builder%20%E2%80%A2%20%E2%98%95%20Caffeine%20Coder&descAlignY=58&descSize=17" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Eddie%20Chan&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineering%20ManagerE2%80%A2%20%E2%98%95%20Caffeine%20Coder&descAlignY=58&descSize=17" alt="Header"/>
 
 <p>
   <a href="https://github.com/unrealandychan">
