@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Eddie%20Chan&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineering%20Manager%20%E2%80%A2%20AWS%20Community%20Builder%20%E2%80%A2%20%E2%98%95%20Caffeine%20Coder&descAlignY=58&descSize=17" alt="Header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=F78166&center=true&vCenter=true&width=650&lines=Building+AI+Systems+at+Scale+%F0%9F%A4%96;AWS+Solutions+Architect+Associate+%E2%98%81%EF%B8%8F;AWS+Community+Builder+%F0%9F%8F%97%EF%B8%8F;HKUST+MBA+%7C+Hong+Kong+%F0%9F%87%AD%F0%9F%87%B0;Coffee+%2B+Code+%3D+My+Day+%E2%98%95)](https://github.com/unrealandychan)
-
 <p>
   <a href="https://github.com/unrealandychan">
     <img src="https://img.shields.io/github/followers/unrealandychan?label=Follow&style=for-the-badge&logo=github&color=f78166&logoColor=white&labelColor=0d1117" alt="Followers"/>
