@@ -7,8 +7,6 @@
     <img src="https://img.shields.io/github/followers/unrealandychan?label=Follow&style=for-the-badge&logo=github&color=f78166&logoColor=white&labelColor=0d1117" alt="Followers"/>
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/AWS%20Community%20Builder-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Community Builder"/>
-  &nbsp;
   <img src="https://img.shields.io/badge/Hong%20Kong-🇭🇰-red?style=for-the-badge&labelColor=0d1117" alt="Hong Kong"/>
   &nbsp;
   <a href="https://medium.com/@unrealandychan">
