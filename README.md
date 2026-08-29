@@ -41,61 +41,6 @@ I'm **Eddie Chan** — an AI Engineering Manager based in 🇭🇰 **Hong Kong**
 
 ---
 
-## 💼 Work Experience
-
-| Period | Role |
-|:---|:---|
-| ![2025-Now](https://img.shields.io/badge/2025--Now-3fb950?style=flat-square&labelColor=0d1117) | **AI Engineering Team Manager** |
-| ![2021-2025](https://img.shields.io/badge/2021--2025-79c0ff?style=flat-square&labelColor=0d1117) | **Senior AI Engineer** |
-| ![2019-2021](https://img.shields.io/badge/2019--2021-f78166?style=flat-square&labelColor=0d1117) | **Data Scientist** — *Early-stage Startup* |
-
-**As AI Engineering Team Manager** `2025 – Present`
-- 🚀 Defining and executing the AI engineering roadmap end-to-end
-- 🏗️ Infrastructure-as-Code with **Terraform + AWS** (EC2, Lambda, ECS, S3, RDS)
-- ☸️ Container orchestration via **Kubernetes** & **Helm** chart management
-- 📊 Enterprise data engineering across **Snowflake**, **Databricks**, **BigQuery**, **Redshift**
-- 👥 Mentoring engineers, conducting code reviews, hiring and growing the team
-- 🔄 Building automation pipelines with **n8n** for business process optimisation
-
-**As Senior AI Engineer** `2021 – 2025`
-- 🤖 Designed and deployed production ML models using **TensorFlow** and **PyTorch**
-- 🐍 Built end-to-end ML pipelines in **Python** — from data preprocessing to model serving
-- ☁️ Leveraged **AWS** services (SageMaker, Lambda, EC2, S3) for scalable model deployment
-- 🔬 Applied deep learning, NLP, and computer vision techniques to real-world problems
-- 📦 Containerised and shipped ML services with **Docker** and **Kubernetes**
-- ⚡ Optimised model inference performance for production latency requirements
-
-**As Data Scientist** `2019 – 2021`
-- 📈 Built predictive models and data-driven product features at a startup
-- 🔍 End-to-end ownership: data wrangling, modelling, evaluation, and deployment
-- 🐍 Core stack: **Python**, SQL, scikit-learn
-
----
-
-## 🎓 Education & Credentials
-
-<table>
-<tr>
-<th align="left">🏫 Education</th>
-<th align="left">☁️ Certifications</th>
-</tr>
-<tr>
-<td valign="top">
-  <strong>Master of Business Administration (MBA)</strong><br/>
-  Hong Kong University of Science &amp; Technology (HKUST)<br/>
-  <em>Class of 2022</em>
-</td>
-<td valign="top">
-  🏅 <strong>AWS Solutions Architect – Associate</strong><br/>
-  <sub>Amazon Web Services · Cloud Architecture</sub><br/><br/>
-  🏗️ <strong>AWS Community Builder</strong><br/>
-  <sub>Amazon Web Services · Cloud Infrastructure track</sub>
-</td>
-</tr>
-</table>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -148,29 +93,6 @@ I'm **Eddie Chan** — an AI Engineering Manager based in 🇭🇰 **Hong Kong**
 | 🔥 [**Hermes-Agent-Cloud**](https://github.com/unrealandychan/Hermes-Agent-Cloud) | One command. Three clouds. Deploy your AI assistant to AWS/Azure/GCP | Bash · Terraform · Multi-cloud |
 | 🔥 [**AgentFoundry**](https://github.com/unrealandychan/AgentFoundry) | Agent scaffolding framework for rapidly building & deploying AI agents | Python · LLM · Agent Orchestration |
 | 🔥 [**rekipedia**](https://github.com/unrealandychan/rekipedia) | Agentic repo-to-wiki CLI — scan any codebase into a searchable knowledge base with AI | Python · SQLite · FastAPI · MCP |
-
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- Profile summary cards generated locally via GitHub Action (100% uptime and zero rate limits) -->
-<img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos Per Language" height="165"/>
-&nbsp;
-<img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Used Language" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=unrealandychan&theme=github-dark-blue&hide_border=true&ring=f78166&fire=f78166&currStreakLabel=f78166&sideNums=79c0ff&sideLabels=8b949e&dates=8b949e&background=0D1117" alt="GitHub Streak"/>
-
-</div>
-
----
-
 
 ---
 
