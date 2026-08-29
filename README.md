@@ -28,17 +28,7 @@
 
 I'm **Eddie Chan** — an AI Engineering Manager based in 🇭🇰 **Hong Kong**, living on coffee and commits.
 
-- 🧠 Managing an **AI Engineering Team** — shipping production ML/AI systems at scale
-- 🏗️ Designing cloud-native infra on **AWS** with **Terraform**, **Kubernetes** & **Helm**
-- 📊 Building data pipelines across **Snowflake**, **Databricks** & **BigQuery**
-- 🤖 Driving LLM adoption and AI-assisted development org-wide
-- 🎓 **HKUST MBA** (Class of 2022)
-- ☁️ **AWS Solutions Architect – Associate** · **AWS Community Builder**
-- 📖 Curating AI-generated learning curricula to democratise tech education
-- ⏱️ GitHub member since **2016**
-
 ---
-
 ## 🛠️ Tech Stack
 
 <div align="center">
